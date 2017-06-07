@@ -52,6 +52,7 @@ body {
   width: 700px;
   height: 190px;
   border-bottom: #eee solid 3px;
+  border-top: #eee solid 3px;
   background-color: rgba(240, 240, 240, 0.3);
   transition: box-shadow .2s; }
   .cardsContainer:hover {
