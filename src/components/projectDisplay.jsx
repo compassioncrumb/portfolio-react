@@ -4,7 +4,7 @@ class ProjectImage extends React.Component {
   render() {
     //var imageSrc = this.props.project.screenshot;
     return (
-        <img className="ProjectImage" src="http://danmark.visitsweden.com/fileadmin/_processed_/csm_h%C3%A5kan_vargas_s-coffebreak_in_the_wild_524x350_f12c93fdbf.jpg" alt="project screenshot"></img>
+        <img className="ProjectImage" src={this.props.project.screenshot} alt="project screenshot"></img>
     );
   }
 }

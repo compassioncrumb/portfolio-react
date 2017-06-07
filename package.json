@@ -1,7 +1,7 @@
 {
   "name": "portfolio-react",
   "version": "0.1.0",
-  "homepage": "https://github.com/compassioncrumb/portfolio-react",
+  "homepage": "https://compassioncrumb.github.io/portfolio-react/",
   "private": true,
   "dependencies": {
     "react": "^15.5.4",
