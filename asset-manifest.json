@@ -1,8 +1,13 @@
 {
   "main.css": "static/css/main.a7ebb8b7.css",
   "main.css.map": "static/css/main.a7ebb8b7.css.map",
-  "main.js": "static/js/main.59822473.js",
-  "main.js.map": "static/js/main.59822473.js.map",
+  "main.js": "static/js/main.3bcd3e7b.js",
+  "main.js.map": "static/js/main.3bcd3e7b.js.map",
   "static/media/dennet_300x190.png": "static/media/dennet_300x190.0e31aa88.png",
-  "static/media/job_board_300x190.png": "static/media/job_board_300x190.b21197a3.png"
+  "static/media/il_doro_300x190.png": "static/media/il_doro_300x190.ddab1663.png",
+  "static/media/job_board_300x190.png": "static/media/job_board_300x190.b21197a3.png",
+  "static/media/library_300x190.png": "static/media/library_300x190.363512b8.png",
+  "static/media/simon_300x190.png": "static/media/simon_300x190.e432795b.png",
+  "static/media/user_info_300x190.png": "static/media/user_info_300x190.2b15787d.png",
+  "static/media/wikipedia_300x190.png": "static/media/wikipedia_300x190.20f615be.png"
 }
