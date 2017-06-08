@@ -1,10 +1,10 @@
-const screenshot_path = "src/data/screenshot_size/";
+const screenshot_path = "./screenshot_size/";
 
 var cardinals = [
 {
   title: "Public Profile",
   summary: "stylized profile page for a speaker or public figure",
-  screenshot: "src/data/screenshot_size/dennet_300x190.png",
+  screenshot: "./screenshot_size/dennet_300x190.png",
   url: "https://compassioncrumb.github.io/front-end-composition-1/",
   skills: ["scss", "html5"]
 },

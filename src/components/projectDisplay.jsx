@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 
 class ProjectImage extends React.Component {
   render() {
-    //var imageSrc = this.props.project.screenshot;
     return (
         <img className="ProjectImage" src={this.props.project.screenshot} alt="project screenshot"></img>
     );
